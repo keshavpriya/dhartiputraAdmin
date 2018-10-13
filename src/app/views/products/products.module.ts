@@ -1,7 +1,8 @@
 import {NgModule} from "@angular/core";
+import {BrowserModule} from "@angular/platform-browser";
 
 @NgModule({
-  imports:[],
+  imports:[BrowserModule],
   exports:[],
   declarations:[]
 })
